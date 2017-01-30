@@ -39,6 +39,10 @@ body {
 	font-weight: 500;
 }
 
+.row {
+  margin-right: 1px;
+}
+
 #social_links {
   text-align: center;
   font-size: 30px;
