@@ -1,0 +1,68 @@
+/*body
+*****************************************************************************/
+body {
+  font-family: lato;
+  background-color:  #07889B;
+  color: white;
+}
+
+#menu {
+  text-align: right;
+  word-spacing: 15px;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-right: 60px;
+}
+
+#quote_text {
+  font-size: 50px;
+	font-style: bold;
+	font-variant: normal;
+	font-weight: 500;
+  margin-top: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+#quote_name {
+  font-size: 30px;
+	font-style: bold;
+	font-variant: normal;
+	font-weight: 500;
+  margin-top: 50px;
+  margin-left: 900px;
+}
+
+#social_links {
+  text-align: center;
+  font-size: 30px;
+	font-style: bold;
+  margin-top: 80px;
+}
+
+#full_stack {
+  color: 	#C0C0C0;
+  margin-left: 80px;
+}
+
+a.portfolio:hover {
+  color: #E3000E !important
+}
+
+a:link {
+  text-decoration:  none;
+  font-weight:      none;
+  background-color: none;
+  color:            white;
+}
+
+a:hover {
+  text-decoration:  none;
+  font-weight:      none;
+  background-color: none;
+  color: #E37222 !important;
+  }
+
+  a:visited {
+    color: white;
+}
